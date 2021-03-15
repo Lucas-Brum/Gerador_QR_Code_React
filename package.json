@@ -1,10 +1,10 @@
 {
-  "name": "Gerador_de_QR_Code",
+  "name": "apagavel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
